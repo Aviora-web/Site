@@ -1,0 +1,11 @@
+Static sanity checks (not a substitute for full device/browser testing)
+
+PASS  doctype
+PASS  viewport_meta
+PASS  all_internal_targets_exist
+PASS  mobile_media_query
+PASS  reduced_motion
+PASS  3d_fallback_visual
+PASS  script_tags_balanced
+PASS  style_tags_balanced
+PASS  unique_ids
